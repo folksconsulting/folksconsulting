@@ -175,7 +175,7 @@ Back to [Table of Contents](#table-of-contents)
 We extend our heartfelt gratitude to the following individuals who have made significant contributions to our projects and the community:
 
 - **[Lloyd Folks]():** Brief description of their contribution.
-- **[Contributor Name](link_to_profile):** Brief description of their contribution.
-- **[Contributor Name](link_to_profile):** Brief description of their contribution.
 
 Your dedication and efforts have greatly enhanced the quality and functionality of our projects. We deeply appreciate your contributions and commitment to our community.
+
+Back to [Table of Contents](#table-of-contents)
