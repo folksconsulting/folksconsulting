@@ -19,7 +19,7 @@ Here are some of the notable projects and contributions from our team:
 ### Powershell Projects
 
 **WSUS Management Tasks**
-- **Description:** Powershell script that handles automating WSUS management and optimization tasks.
+- **Description:** PowerShell script that handles automating WSUS management and optimization tasks.
 - **Link:** [WSUS Management Tasks](link_to_repository)
 
 Feel free to explore these projects to get an idea of what we are aiming for. Any project suggestions are more than welcome! Let's develop solutions together!
