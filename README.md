@@ -174,7 +174,7 @@ Back to [Table of Contents](#table-of-contents)
 
 We extend our heartfelt gratitude to the following individuals who have made significant contributions to our projects and the community:
 
-- **[Lloyd Folks]()**
+- **[Lloyd Folks](https://github.com/lfolks)**
 
 Your dedication and efforts have greatly enhanced the quality and functionality of our projects. We deeply appreciate your contributions and commitment to our community.
 
